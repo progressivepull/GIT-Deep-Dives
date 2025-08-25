@@ -44,6 +44,8 @@ cd forked-repo
 ## 3. Connect to the Upstream Repository
 This lets you pull changes from the original repo.
 
+![upstream.png](./../IMAGES_STEPS/Forking/upstream.png)
+
 ``` bash
 git remote add upstream https://github.com/original-owner/original-repo.git
 ```
