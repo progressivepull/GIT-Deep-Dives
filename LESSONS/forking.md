@@ -17,11 +17,22 @@ https://github.com/browntruck246
 # 1. Fork the Original Repository
 1. Log In First, log in using the designated account. Once logged in, you’ll see your profile icon in the top corner, confirming your identity.
 
-2. Locate the Repository Navigate to the Progressive Pull repository. You’ll see the repository name (e.g., “Greenfield”) clearly displayed near the top of the page, along with your logged-in username.
+![ppo_account.jpg](./../IMAGES_STEPS/Forking/ppo_account.jpg)  
 
-See Click Fork (top-right corner).
+2. Locate the Repository Navigate to the Progressive Pull repository. You’ll see the repository name (e.g., “Green-Leaf”) clearly displayed near the top of the page, along with your logged-in username.
 
-This creates a copy under your GitHub account.
+![fork_webpage.jpg](./../IMAGES_STEPS/Forking/fork_webpage.jpg)
+
+## 🍴 Forking the Repository
+Initiate the Fork Click the Fork button in the top-right corner of the repository page.
+
+![forking_button.jpg](./../IMAGES_STEPS/Forking/forking_button.jpg)
+
+Select Fork Options When prompted, make sure to uncheck the option that says “Copy only the main branch.” Instead, choose to copy all branches and code to ensure a complete fork.
+
+![create_fork.jpg](./../IMAGES_STEPS/Forking/create_fork.jpg)
+
+Create the Fork Click Create Fork to finalize the process.
 
 ## 2. Clone Your Fork Locally
 
