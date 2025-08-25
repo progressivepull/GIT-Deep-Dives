@@ -6,7 +6,8 @@
 * [DOCUMENTS](./DOCUMENTS/)
 ---
 # Command Line Steps
-* [Steps to set up SSH and GitHub with the Command Line](./LESSONS/SSH_and_GitHub.md)
+* [Environment Setup](./LESSONS/environment_setup.md)
+* [Steps to set up SSH and GitHub with the Command Line](./LESSONS/SSH_and_GitHub_setup.md)
 * [Fundamental for Managing your Code with Git](./LESSONS/fundamental_for_managing.md)
 * [Configuration Git](./LESSONS/config_git.md)
 * [Tags for deploy rollback plan](./LESSONS/tags.md)

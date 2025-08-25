@@ -2,6 +2,11 @@
 
 We have two GitHub Repositories Accounts:
 
+https://github.com/browntruck246
+
+https://github.com/progressivepull
+
+
 # 1. Fork the Original Repository
 To begin working with the PRODUCTION code, fork the PRODUCTION repository into your Sid repository by **first logging into your personal repository**, then navigating to the PRODUCTION repository, and then initiating the fork.
 
