@@ -1,6 +1,8 @@
 # 🔁 GitHub Pull Request from a Fork
 
-Centralized management: Repositories for all projects are owned by the organization, not by individual members. This is ideal for managing projects for a company or a large open-source group.
+## Getting the Code form the Organization's Production Code Repository
+
+You can clone the fork directly from the organization's production code repository. All project repositories are owned and maintained by the organization rather than individual contributors. This structure is especially effective for managing company-wide initiatives or coordinating large open-source efforts.
 
 ![enterprise.jpg](./../IMAGES_STEPS/Pull_Request/enterprise.jpg)
 
