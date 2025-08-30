@@ -4,6 +4,8 @@ A pull request is a way to move code from your origin repository to the upstream
 
 To begin this process, you first navigate to your GitHub origin repository. In this example, I’ll make a simple coding change—specifically, updating the README file. This marks the starting point of the workflow, since the goal is to push code changes that will be reviewed and potentially merged into the upstream repository.
 
+Click the pencil icon at the top right of the README file to begin editing its contents.
+
 ![1_open_edit_README.jpg](./../IMAGES_STEPS/Pull_Request/1_open_edit_README.png)
 
 At the top of the page, click the Commit changes button.
