@@ -13,7 +13,7 @@ To edit the README.md file and submit a change to the upstream repository:
 2. Click the pencil icon to edit the file directly in your browser.
 3. Make your desired changes.
 
-![1_open_edit_README.jpg](./../IMAGES_STEPS/Pull_Request/1_open_edit_README.jpg)
+![1_open_edit_README.jpg](./../IMAGES_STEPS/Pull_Request/1_open_edit_README.png)
 
 At the top of the page, click the Commit changes button.
 
