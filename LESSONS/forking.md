@@ -1,4 +1,4 @@
-# 🔁 GitHub Pull Request from a Fork
+# 🔁 Forking is Copying form one repository to another
 
 ## Getting the Code form the Organization's Production Code Repository
 
