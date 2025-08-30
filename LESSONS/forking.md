@@ -4,11 +4,11 @@
 
 You can clone the fork directly from the organization's production code repository. All project repositories are owned and maintained by the organization rather than individual contributors. This structure is especially effective for managing company-wide initiatives or coordinating large open-source efforts.
 
-![enterprise.jpg](./../IMAGES_STEPS/Pull_Request/enterprise.jpg)
+![enterprise.jpg](./../IMAGES_STEPS/Forking/enterprise.jpg)
 
 You have access to the product repositories for all of your company's divisions.
 
-![organization.jpg](./../IMAGES_STEPS/Pull_Request/organizations.jpg)
+![organization.jpg](./../IMAGES_STEPS/Forking/organizations.jpg)
 
 To edit the README.md file and submit a change to the upstream repository:
 1. Navigate to the README.md file in your repository.
