@@ -91,6 +91,10 @@ Automatic merge failed; fix conflicts and then commit the result.
 * ```=======:```Separates the changes from the two branches.
 * ```>>>>>>> v1.0Bill:``` Indicates the changes from the branch you are merging (v1.0Bill).
 
+Click on the **Resolve in Merge Editor Button**
+
+![resolve_in_merge_editor.png](./../IMAGES_STEPS/branch-merge/resolve_in_merge_editor.png)
+
 # 5. Resolve the conflict
 You must now manually edit the file to determine the final, correct content. For this example, you can decide to keep "HELLO John" or "HELLO Bill," or combine them.
 1. Open README.md in a text editor.
