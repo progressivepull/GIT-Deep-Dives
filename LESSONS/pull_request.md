@@ -60,9 +60,23 @@ The goal here is to ensure the code meets our standards before it’s committed.
 
 ![8_open_new_pull_request.jpg](./../IMAGES_STEPS/Pull_Request/8_open_new_pull_request.jpg)
 
+Click in Commits tab to see the commits.
+
 ![9_look_commits.jpg](./../IMAGES_STEPS/Pull_Request/9_look_commits.jpg)
 
+The picture below you can see the list of commits.
+
 ![10_step_each_commit.jpg](./../IMAGES_STEPS/Pull_Request/10_step_each_commit.jpg)
+
+Git, when you're looking at a commit—especially in a pull request or a diff view—the red and green colors help you quickly understand what changed:
+
+🟥 Red = Removed
+Lines highlighted in red were deleted or modified from the previous version of the file.
+
+🟩 Green = Added
+Lines highlighted in green were newly added or changed in the commit.
+
+If a line was edited, you'll often see it in red and green side-by-side: red shows the old version, green shows the new one.
 
 ![11_diff_commit.jpg](./../IMAGES_STEPS/Pull_Request/11_diff_commit.jpg)
 
