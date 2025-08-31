@@ -1,5 +1,7 @@
 # 🔁 GitHub Pull Request from a Fork
 
+## Steps for the Origin Repository where code changes are made 
+
 A pull request is a way to move code from your origin repository to the upstream repository. Typically, the upstream repository is the main project where protected code lives and where changes are eventually deployed to production.
 
 To begin this process, you first navigate to your GitHub origin repository. In this example, I’ll make a simple coding change—specifically, updating the README file. This marks the starting point of the workflow, since the goal is to push code changes that will be reviewed and potentially merged into the upstream repository.
@@ -8,11 +10,17 @@ Click the pencil icon at the top right of the README file to begin editing its c
 
 ![1_open_edit_README.jpg](./../IMAGES_STEPS/Pull_Request/1_open_edit_README.png)
 
-At the top of the page, click the Commit changes button.
+I going change the version, date, and time on the README file. After the changes go to top of the page, click the Commit changes button.
+
+![1_open_edit_README.jpg](./../IMAGES_STEPS/Pull_Request/1.5_commit_codeing_changes.jpg)
+
+You can see changes below. 
 
 ![2_commit_code.jpg](./../IMAGES_STEPS/Pull_Request/2_commit_code.jpg)
 
-Click the Pull requests at the top of the page.
+
+Click the Pull requests at the top of the page start to initiate the Pull Request. 
+
 
 ![3_click_pull_request.jpg](./../IMAGES_STEPS/Pull_Request/3_click_pull_request.jpg)
 
