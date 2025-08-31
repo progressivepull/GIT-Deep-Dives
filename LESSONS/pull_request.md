@@ -36,6 +36,8 @@ For the new pull request, please ensure the title includes the Jira ticket numbe
 
 ![6_click_new_pull_request.jpg](./../IMAGES_STEPS/Pull_Request/6_click_new_pull_request.jpg)
 
+## Steps for the Upstream Repository where code changes are being pulled
+
 ![7_open_pull_request.jpg](./../IMAGES_STEPS/Pull_Request/7_open_pull_request.jpg)
 
 ![8_open_new_pull_request.jpg](./../IMAGES_STEPS/Pull_Request/8_open_new_pull_request.jpg)
