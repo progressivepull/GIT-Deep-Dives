@@ -12,7 +12,7 @@
 * [Configuration Git](./LESSONS/config_git.md)
 * [Show the commit history](./LESSONS/)
 * [Tags for deploy rollback plan](./LESSONS/tags.md)
-* [GitHub Pull Request from a Fork](./LESSONS/forking.md)
+* [ Forking is Copying form one repository to another](./LESSONS/forking.md)
 * [Upstream Remote Synchronized with Original Fork Project ](./LESSONS/upstream_remote_synchronized.md)
 * [Guide to Creating and Merging Branches with a Conflict](./LESSONS/branch-merge.md)
 * [Create a Pull Request](./LESSONS/pull_request.md)
