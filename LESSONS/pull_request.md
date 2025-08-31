@@ -46,16 +46,6 @@ Within this codebase, you'll need to navigate to the original repository that th
 
 When you click on the Pull Requests tab, you'll be taken to a page that lists all open pull requests. Scroll down to view the details—here you can see who submitted each request and how long it's been open.
 
-This is where we’ll review the code. After examining the changes, you’ll have a few options:
-
-✅ Approve the pull request if everything looks good. Once approved, it can be merged into the main codebase.
-
-💬 Comment directly on the code to provide feedback or ask questions.
-
-🔄 Request changes if something needs to be revised. This sends feedback to the contributor asking them to update their code.
-
-📝 You can also leave a general comment with suggestions or notes that aren’t tied to specific lines of code.
-
 The goal here is to ensure the code meets our standards before it’s committed. Whether you're approving, requesting changes, or just offering guidance, this is the space to collaborate and keep the codebase clean and reliable.
 
 ![8_open_new_pull_request.jpg](./../IMAGES_STEPS/Pull_Request/8_open_new_pull_request.jpg)
@@ -79,6 +69,16 @@ Lines highlighted in green were newly added or changed in the commit.
 If a line was edited, you'll often see it in red and green side-by-side: red shows the old version, green shows the new one.
 
 ![11_diff_commit.jpg](./../IMAGES_STEPS/Pull_Request/11_diff_commit.jpg)
+
+This is where we’ll review the code. After examining the changes, you’ll have a few options:
+
+✅ Approve the pull request if everything looks good. Once approved, it can be merged into the main codebase.
+
+💬 Comment directly on the code to provide feedback or ask questions.
+
+🔄 Request changes if something needs to be revised. This sends feedback to the contributor asking them to update their code.
+
+📝 You can also leave a general comment with suggestions or notes that aren’t tied to specific lines of code.
 
 ![12_review_commit.jpg](./../IMAGES_STEPS/Pull_Request/12_review_commit.jpg)
 
