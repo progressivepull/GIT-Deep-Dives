@@ -38,6 +38,10 @@ For the new pull request, please ensure the title includes the Jira ticket numbe
 
 ## Steps for the Upstream Repository where code changes are being pulled
 
+I'm heading to the upstream codebase, which lives on the Progressive Pull website. This is our company's production repository—the official org code. It's where I'll be storing the changes.
+
+Within this codebase, you'll need to navigate to the original repository that the current one was forked from. In this case, that's the Green Leaf repo. Once you're in there, look near the pull requests section. You'll see a label next to the Pull Request Label a 1, which indicates there's one active pull request—submitted from another repository into this upstream repo. Click on the Pull Request Label. 
+
 ![7_open_pull_request.jpg](./../IMAGES_STEPS/Pull_Request/7_open_pull_request.jpg)
 
 ![8_open_new_pull_request.jpg](./../IMAGES_STEPS/Pull_Request/8_open_new_pull_request.jpg)
